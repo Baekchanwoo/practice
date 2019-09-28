@@ -1,0 +1,13 @@
+[pull]
+git pull origin master
+--------------------------------------
+[pull]
+git status
+
+git add .
+
+git commit -m
+"massage"
+
+git push origin
++master
